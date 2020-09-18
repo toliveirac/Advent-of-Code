@@ -1,0 +1,10 @@
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\bin\Debug\day02.exe.config
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\bin\Debug\day02.exe
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\bin\Debug\day02.pdb
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\obj\Debug\day02.csprojAssemblyReference.cache
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\obj\Debug\day02.Form1.resources
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\obj\Debug\day02.Properties.Resources.resources
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\obj\Debug\day02.csproj.GenerateResource.cache
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\obj\Debug\day02.csproj.CoreCompileInputs.cache
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\obj\Debug\day02.exe
+C:\Users\toliv\source\repos\Projetos\AdventOfCode\2019\day02\day02\day02\obj\Debug\day02.pdb
